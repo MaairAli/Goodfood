@@ -1,0 +1,36 @@
+[
+{
+    "id" : "1",
+    "racipe_name": "SALMON WITH ROAST ASPARAGUS RACIPE",
+    "racipe_description": "A HEALTHY SPAGHETTI DISH FULL OF BROAD BEANS, LEEKS AND ASPARAGUS TIPS. MAKE THE MOST OF SPRING GREENS WITH THIS VIBRANT, FILLING PASTA RECIPE",
+    "racipe_ingredients":"- 400g new potato, halved if large <br>- 2 tbsp olive oil, 8 asparagus spears, trimmed and halved <br>- 2 handfuls cherry tomatoes <br>- 2 salmon fillets, about 140g/5oz each <br>- 1 tbsp balsamic vinegar <br>- handful basil leaves",
+    "racipe_image": "./images/onepan.jpg",
+    "preparationTime":"20 minutes",
+    "cookingTime":"40 minutes",
+    "preparation_Step1":"Heat oven to 220C/fan 200C/gas 7. Tip the potatoes and 1 tbsp of olive oil into an ovenproof dish, then roast the potatoes for 20 mins until starting to brown. Toss the asparagus in with the potatoes, then return to the oven for 15 mins.",
+    "preparation_Step2":"Throw in the cherry tomatoes and vinegar and nestle the salmon amongst the vegetables. Drizzle with the remaining oil and return to the oven for a final 10-15 mins until the salmon is cooked. Scatter over the basil leaves and serve everything scooped straight from the dish"
+    },
+{
+    "id" : "2",
+    "racipe_name": "Herby spring chicken pot pie",
+    "racipe_description": "Minimise your washing-up with this delicious one-pan chicken pie with spinach and herbs and topped with crispy filo pastry. It's ideal for busy weeknights",
+    "racipe_ingredients":"2 tbsp olive oil , plus a little extra for brushing over the pastry <br> bunch spring onions , sliced into 3cm pieces <br> 6 ready-cooked chicken thighs (or see tip, below) <br> 250g frozen spinach <br> ½ tbsp wholegrain mustard <br> ½ small bunch tarragon , leaves finely chopped <br> 270g pack filo pastry",
+    "racipe_image": "./images/pasta.jpg",
+    "preparationTime":"10 minutes",
+    "cookingTime":"30 minutes",
+    "preparation_Step1":"Heat oven to 200C/180C fan/gas 6. Heat the oil in a large, shallow casserole dish on a medium heat. Add the spring onions and fry for 3 mins, then stir through the frozen spinach and cook for 2 mins or until it’s starting to wilt. Remove the skin from the chicken and discard. Shred the chicken off the bone and into the pan, and discard the bones. Stir through the stock and mustard. Bring to a simmer and cook, uncovered, for 5-10 mins.",
+    "preparation_Step2":"Stir in the peas, crème fraîche and herbs, then remove from the heat. Scrunch the filo pastry sheets over the mixture, brush with a little oil and bake for 15-20 mins or until golden brown."
+},
+{
+    "id" : "3",
+    "racipe_name": "sprouting broccoli orecchiette with an almond crumb",
+    "racipe_description": "Showcase purple sprouting broccoli in this quick pasta dish.",
+    "racipe_ingredients":"2 tbsp extra virgin olive oil <br> 6 good-quality anchovies in oil <br> 1 shallot , finely chopped <br>  ½-1 red chilli , deseeded and finely chopped <br> 100ml white wine or vermouth <br> 2 garlic cloves , crushed <br> 100g dried orecchiette , or pasta of your choice <br> grated parmesan , to serve",
+    "racipe_image": "./images/herby.jpg",
+    "preparationTime":"15 minutes",
+    "cookingTime":"30 minutes",
+    "preparation_Step1":"To make the almond crumb, blitz the bread in a food processor to coarse crumbs. Toast the almonds in a dry, non-stick frying pan until golden, then tip into a bowl. Heat the oil in the same pan over a medium heat, then add the parsley, rosemary, lemon zest and garlic, stirring constantly, for about 30 seconds. Add the breadcrumbs and fry until crunchy and golden, stirring constantly, for 3-5 mins. Tip into the bowl with the almonds, add a pinch of salt and stir to combine.",
+    "preparation_Step2":"Tip the pasta into the broccoli water and cook following pack instructions until al dente. A couple of mins before it’s cooked, put the pan with the anchovies back over a low-medium heat, remove the broccoli from the iced water and add to the frying pan, stirring to coat. Drain the pasta, reserving a cup of the cooking water, then turn the heat up under the frying pan and add the pasta and a good slosh of its water, tossing to combine. Squeeze over the lemon juice and stir in the parsley, then divide between plates and top with the almond crumb and grated parmesan."
+}
+
+]

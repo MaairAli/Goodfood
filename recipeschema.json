@@ -1,0 +1,47 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "array",
+    "items": [{
+        "type": "object",
+        "properties": {
+            "id": {
+                "type": "string"
+            },
+            "racipe_name": {
+                "type": "string"
+            },
+            "racipe_description": {
+                "type": "string"
+            },
+            "racipe_ingredients": {
+                "type": "string"
+            },
+            "racipe_image": {
+                "type": "string"
+            },
+            "preparationTime": {
+                "type": "string"
+            },
+            "cookingTime": {
+                "type": "string"
+            },
+            "preparation_Step1": {
+                "type": "string"
+            },
+            "preparation_Step2": {
+                "type": "string"
+            }
+        },
+        "required": [
+            "id",
+            "racipe_name",
+            "racipe_description",
+            "racipe_ingredients",
+            "racipe_image",
+            "preparationTime",
+            "cookingTime",
+            "preparation_Step1",
+            "preparation_Step2"
+        ]
+    }]
+}
